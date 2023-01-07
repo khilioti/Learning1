@@ -96,6 +96,40 @@ public class Main {
 //                System.out.println("Подумай еще.");
 //            }
 //        }
+//
+//        boolean a = true;
+//        int b = (char) a;
+//        double a = 99999.1234567989123;
+//        byte b = (byte) a;
+//        System.out.println(a);
 
+// Learn6_1
+//        float num1 = 4.25f;
+////        int num1 = 4;
+//        int num2 =5;
+//
+//        System.out.println("Большее число из 2 чисел: " + Math.max(num1,num2));
+//        System.out.println("Меньшее число из 2 чисел: " + Math.min(num1,num2));
+
+// Learn7_1
+//String s = "dsfsdfsdfsdfsd";
+//        System.out.println(s.length());
+// Learn7_2
+//        String sentence = "asdsadasdasdasdasdasdas.  ";
+//        System.out.println(sentence.length());
+// Learn7_3
+//        String sentence1 = "asdsadasdasdasdasdasdas.  ";
+//        String sentence2 = "222123131.  ";
+// Learn7_4
+//        String sentence1 = "фывапролд.  ";
+//        System.out.println(sentence1.charAt(2));
+// Learn7_5
+//        String sentence1 = "Напоминаем: нумерация индексов начинается с нуля.";
+//        System.out.println(sentence1.substring(12));
+// Learn7_6
+//        String sentence1 = "Напоминаем: нумерация индексов начинается с нуля.";
+//        System.out.println(sentence1.indexOf('н', 8));
+//ООП
     }
 }
+
